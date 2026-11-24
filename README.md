@@ -1,8 +1,8 @@
 # The Perfect Pickup Line
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6)
-[![license: MIT](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-[![python](https://img.shields.io/badge/python-3.13-blue)](main.py)
+[![make.fun · u-pucuys-the-perfect-pickup-line-f6725cf6](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![rank](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/ifulchina-ops/perfect-pickup-line/rank.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
+[![reward](https://make.fun/badge/u-pucuys-the-perfect-pickup-line-f6725cf6/ifulchina-ops/perfect-pickup-line/reward.svg)](https://make.fun/bounty/u-pucuys-the-perfect-pickup-line-f6725cf6?utm_source=github&utm_medium=readme&utm_campaign=u-pucuys-the-perfect-pickup-line-f6725cf6)
 
 One short pickup line an AI agent could actually say out loud — a prompt
 joke with a twist, written for
